@@ -46,5 +46,21 @@
       background-color: darkgrey;
       padding: 20px;
       margin-left: 20px;
+}
   }
-
+  h2 {
+      color: whitesmoke;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+      'Lucida Grande', 'Lucida Sans Unicode', Geneva, 
+      Verdana, sans-serif;
+  }
+h3{
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

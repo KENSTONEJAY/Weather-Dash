@@ -26,6 +26,8 @@ const button = document.getElementById("submit");
 button.addEventListener("click", () => {
   const currentVal = search.value;
 
+  //get data and dispaly on site 
+
   ft.getCurrent(currentVal).then((data) => {
       console.log(data)
       $('.card-title').text(data.name)
@@ -40,9 +42,6 @@ button.addEventListener("click", () => {
 window.addEventListener("DOMContentLoaded", () => {
 
 });
-
-
-
 
 
 // name of the city 
